@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Emon 
 
-Computer Science graduate (BSc, University of Waikato, 2026) based in Hamilton, New Zealand. I'm looking for a graduate Software, Mobile (Android) or Web Developer role in New Zealand.
+Computer Science graduate (BSc, University of Waikato, 2026) based in New Zealand..
 
 **Skills:** Java, Kotlin, JavaScript, SQL, Android (Jetpack Compose), React, Node.js, AWS
 
